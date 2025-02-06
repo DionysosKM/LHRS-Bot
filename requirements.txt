@@ -1,4 +1,5 @@
 wandb
+websockets==13.0
 fsspec==2024.10.0
 torch==2.3.1
 torchvision==0.18.1
