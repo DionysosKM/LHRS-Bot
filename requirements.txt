@@ -1,6 +1,7 @@
 wandb
+fsspec==2024.10.0
 torch==2.3.1
-torchvision
+torchvision==0.18.1
 transformers==4.42.4
 timm==0.9.12
 torchmetrics==1.1.2
